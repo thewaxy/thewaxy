@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About Me
 
-- Backend + game systems geliştiriyorum  
-- Cybersecurity tarafında sistem kurcalıyorum  
-- Minecraft modding & multiplayer logic işlerine sardım  
-- Tool yazmayı oyun oynamaktan daha çok seviyorum aq  
+- I build backend systems and core game mechanics
+- I experiment with cybersecurity systems, breaking and testing them
+- I’m into Minecraft modding and multiplayer logic development
+- I’m working on a few startup ideas and projects
 
 ---
 
