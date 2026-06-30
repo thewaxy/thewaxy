@@ -76,38 +76,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=thewaxy&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thewaxy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-### 📈 Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewaxy&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewaxy&theme=matrix&no-frame=true&row=1"/>
 </div>
 
 ---
